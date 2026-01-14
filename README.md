@@ -7,4 +7,4 @@ Harude loomine ja ühendamine
 Muudatuste jälgimine GitHubis
 
 Hoidla failid sisaldavad:
-harjutamine.txt — fail, kus on GitHubi tutvustus, minu mõtted ja GitHubi ajalugu.
+harjutamine.txt - fail, kus on GitHubi tutvustus, minu mõtted ja GitHubi ajalugu.
