@@ -1,1 +1,5 @@
 GitHub on veebipõhine versioonihaldussüsteem. Seda kasutavad arendajad üle kogu maailma koodi jagamiseks ja koostöö tegemiseks.
+
+Mina saan GitHubi kasutada koduste ülesannete salvestamiseks ja koodi jagamiseks tiimitööks.
+GitHub asutati 2008 aastal Tom Preston-Werneri, Chris Wanstrathi ja PJ Hyetti poolt. Teenus oli avalikult kättesaadav alates 2008. aastast.
+
